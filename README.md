@@ -13,11 +13,11 @@ The game can be executed on webserver and you can play against the CPU. The more
 ## Test&Build
 
 ### Test Commands
-- Run all tests: ```shell stack test ```
-- Run validation tests: ```shell stack test ploy:validate ```
-- Run unit tests: ```shell stack test ploy:units ```
-- Run grading tests: ```shell stack test ploy:grading ```
-- Run tests with coverage: ```shell stack test --coverage ... ```
+- Run all tests: ```stack test ```
+- Run validation tests: ```stack test ploy:validate ```
+- Run unit tests: ```stack test ploy:units ```
+- Run grading tests: ```stack test ploy:grading ```
+- Run tests with coverage: ```stack test --coverage ... ```
 
 ### Building Commands
 ```shell
